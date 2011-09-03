@@ -1,4 +1,6 @@
 In this project, I shared some examples presented in SOA/MBA at Unisal.
 
 5minExample: A Simple deploy of a WS in Java with JWS/JAX-WS
-ws: A JEE project with EJB WS Example
+ws: A JEE project with EJB and Servlet Example WS Example
+correios: Example of accessing correios web service
+stockQuote: Example os consuming a stockQuoteWS

@@ -1,0 +1,8 @@
+Developing WebService Client from Stock Quote API
+--------------------------------------------------
+
+1) We need to generate the client stubs, so in this time use eclipse, new, other, web services client:
+
+http://www.webservicex.net/stockquote.asmx?WSDL
+
+2) Then Run WSClientTest

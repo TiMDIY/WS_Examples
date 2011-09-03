@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jogano10</groupId>
-  <artifactId>correios</artifactId>
+  <artifactId>stockQuote</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>correios</name>
+  <name>stockQuote</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -34,17 +34,17 @@
       <version>4.8.1</version>
       <scope>test</scope>
     </dependency>
-<dependency>
-    <groupId>org.apache.axis</groupId>
-    <artifactId>axis</artifactId>
-    <version>1.4</version>
-</dependency>
     <dependency>
       <groupId>org.mockito</groupId>
       <artifactId>mockito-all</artifactId>
       <version>1.8.5</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>org.apache.axis</groupId>
+    	<artifactId>axis</artifactId>
+    	<version>1.4</version>
+	</dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-all</artifactId>

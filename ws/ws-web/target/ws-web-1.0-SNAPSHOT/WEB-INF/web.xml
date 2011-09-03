@@ -19,4 +19,14 @@
     <servlet-name>GreetingServlet</servlet-name>
     <url-pattern>/greeting</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>TempConv</display-name>
+    <servlet-name>TempConv</servlet-name>
+    <servlet-class>com.jogano10.web.TemperatureConverter</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>TempConv</servlet-name>
+    <url-pattern>/TempConv</url-pattern>
+  </servlet-mapping>
 </web-app>

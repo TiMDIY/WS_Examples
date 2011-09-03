@@ -7,3 +7,9 @@ JAX-WS Servlet End Point
 4) See the test on com.jogano10.util.WSClientTest
 5) Write next methods in Calc 
 
+1) Create a servlet TemperatureConverter
+2) Configure web.xml and anottations
+3) Build and deploy.
+4) See the test on com.jogano10.util.WSClientTest
+5) Write next methods in TemperatureConverter 
+

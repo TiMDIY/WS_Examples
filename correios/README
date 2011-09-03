@@ -1,0 +1,11 @@
+Developing WebService Client from Correios API
+----------------------------------------------
+
+1) We need to generate the client stubs, so open your command line, and enter the wsimport command:
+
+wsimport -s temp http://ws.correios.com.br/calculador/CalcPrecoPrazo.asmx?WSDL
+
+Remember to create directory temp first. Them copy the files generated to your desired location (mine is com.jogano10.client)
+Be carefull when you change the packages. Both web services and JAXB (XML parser) need the correct packages
+
+2) 

@@ -7,3 +7,5 @@ ws: A JEE project with EJB and Servlet Example WS Example
 correios: Example of accessing correios web service
 
 stockQuote: Example os consuming a stockQuoteWS
+
+blankProject: A project that students will implement from http://www.webservicex.net/ws/default.aspx

@@ -1,0 +1,9 @@
+JAX-WS Servlet End Point
+-------------------------------
+
+1) Create a interface Icalc
+2) Write a EJB class: Calc
+3) Build and deploy.
+4) See the test on com.jogano10.util.WSClientTest
+5) Write next methods in Calc 
+
